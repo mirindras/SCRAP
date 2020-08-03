@@ -1,4 +1,4 @@
-# Ruby_scrappeur_fou
+# Ruby_scrappeur_fou:
 
 le projet scrappeur fou est un projet dans le cadre de notre formation à SAYNA. Ce projet nous permet de se familiariser avec le scrapping
 
